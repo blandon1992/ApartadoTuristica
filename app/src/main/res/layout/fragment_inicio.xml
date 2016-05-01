@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        style="@style/linearLayoutStyle">
+
+        <TextView
+            android:text="@string/app_name"
+            style="@style/TextViewD" />
+
+        <ImageView
+            style="@style/imageViewStyle"
+            android:src="@drawable/iglesiasanfrancisco"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textSize="19dp"
+            android:text="@string/publicidad"
+            android:gravity="center"
+            android:textColor="@color/black"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="0.62" />
+
+    </LinearLayout>
+
+</FrameLayout>
+

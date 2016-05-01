@@ -1,0 +1,33 @@
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="com.joseblandon.fragments.EncuentrosFragment">
+
+        <!-- TODO: Update blank fragment layout -->
+
+        <LinearLayout
+            style="@style/linearLayoutStyle">
+            <TextView
+                style="@style/textViewStyle.Title"
+                android:text="@string/kiwi"/>
+
+            <ImageView
+                style="@style/imageViewStyle"
+                android:src="@drawable/kiwi"/>
+
+            <TextView
+                style="@style/textViewStyle.Content"
+                android:text="@string/kiwiInfo"/>
+            <Button
+                style="@style/ButtonStyle"
+                android:text="@string/irMapa"
+                android:onClick="mapsKiwi"/>
+        </LinearLayout>
+    </FrameLayout>
+</ScrollView>

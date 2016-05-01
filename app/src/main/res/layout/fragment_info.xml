@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+<FrameLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <LinearLayout
+       style="@style/linearLayoutStyle">
+
+        <TextView
+            android:text="@string/demo"
+            style="@style/TextViewU" />
+
+        <ImageView
+         style="@style/imageViewStyle"
+            android:src="@drawable/panoramica"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <TextView
+            style="@style/TextViewT"
+            android:text="@string/demoInfo"/>
+        <Button
+            style="@style/ButtonStyle"
+            android:text="@string/irMapa"
+            android:onClick="mapsApartado"/>
+    </LinearLayout>
+</FrameLayout>
+</ScrollView>

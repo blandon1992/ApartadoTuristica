@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ApartadoTuristica</string>
+    <string name="titulo">Apartadó enjoys</string>
+    <string name="publicidad">Travel guide of the warm and thriving banana capital of Uraba, here you will find all the information related to hotels, tourist sites, bars and much more.</string>
+    <string name="acercaD">About...</string>
+    <string name="acercaDcontent">Application developed by electrical engineering student Jose Antonio Blandon Torres. 04/04/2016</string>
+    <string name="sitios_turisticos">Tourist sites</string>
+    <string name="oasis">Recreational Park Oasis</string>
+    <string name="oasisInfo">Recreational park that has to service its visitors swimming pool for adults and children, kiosk for events, soccer field, cafeteria, ornamental fountain, green areas and parking.</string>
+    <string name="encuentros">Encounters Park</string>
+    <string name="encuentrosInfo">3 Km. From Apartadó on the road that leads to Carepa, it is in operation the first stage of Park COMFENALCO Encounters Antioquia. This has Parador, restaurant, swimming pool for adults and children, playground and parking. </string>
+    <string name="zungo">Zungo Park</string>
+    <string name="zungoInfo">Un bello lugar ambiental para la educación y el deporte ubicado en la vereda Zungo Carretera, cuenta con botes de remo, piscina para niños y adultos, tobogán, canchas de fútbol, placa polideportiva, pista de bicicros, pista de triciclos, juegos infantiles, brincos (castillo de lona), kioscos para eventos empresariales, kioscos familiares, cafetería, restaurantes, juegos de mesa, zonas verdes y amplios parqueaderos.</string>
+    <string name="bares">Bars</string>
+    <string name="kiwi">Restaurant bar KIWI</string>
+    <string name="kiwiInfo">In our Restaurant Bar we have: ala carte dishes, meats, pastas, sea foods and fast foods. Visit us in the neighborhood Ortiz (Carrera 103 # 99a-03) to have the pleasure to assist.</string>
+    <string name="pampa">Restobar La Pampa</string>
+    <string name="pampaInfo">In our specialties are the grilled Argentine style field. The cuts we handle are: Lamb, Chivito, rib of beef, pork, and chicken haunches. The process in which we roast our meat is simmered with stakes, where we use logs of different hues. Our customers will also enjoy Wines Argentine, Chilean, French and natural juices. Attend business and social events, reserve the number 3117658163.</string>
+    <string name="barbacoa">Restaurant bar Barbacoa</string>
+    <string name="barbacoaInfo">carvery restaurant, located in the neighborhood Ortíz (Carrera 106c # 99E-118). Make your reservation number 8282153</string>
+    <string name="hoteles">Hotels</string>
+    <string name="estaciones">4 estaciones hotel</string>
+    <string name="estacionesInfo">The Hotel The 4 Seasons offers the best alternative accommodation in the Uraba region, the elegant design of its facilities combines minimalist elements that refer to the four weather seasons, each room is luxuriously equipped to make you feel during your stay better than casa.Contamos with 12 standard rooms, 6 junior suites, 2 presidential suites equipped with air conditioning, Minibar, Room service, Business Lounge, Internet, Wi-Fi, cable TV, laundry and ironing, parking guarded 24 time, romantic nights. The hotel is located on 98th Street # 100-20. Make your reservations through the number 8289911 or by e hotellas4estaciones@hotmail.com</string>
+    <string name="digmaran">Digmaran Hotel </string>
+    <string name="digmaranInfo">The hotel has 20 spacious rooms with quality furnishings and comfort, single and double beds, with capacity for 40 people in different forms of accommodation. Make your reservation through the number 8283300 or by e hoteldigmaran@hotmail.com</string>
+    <string name="wSanchez">William Sanchez Hotel </string>
+    <string name="wSanchezInfo">While you rest, we we provide all the effort to make your stay as pleasant posible.Contamos with 30 rooms: TV, Telephone, Refrigerator, Air Conditioning, Fan and WIFI. Make your reservation through the number 8280219 or by e hotelwilliamsanchez@hotmail.com</string>
+    <string name="demo">Demographic information</string>
+    <string name="demoInfo">Apartado is a municipality of Colombia, located in the subregion of Urabá in Antioquia department, being the most populous municipality in that region. In its urban area, Apartado is divided into 49 districts spread over 4 comunas.3 While in his rural, has 4 corregimientos4 and 57 veredas5 .Apartadó has 183,716 inhabitants, 159,174 of which corresponds to the urban area and as much to rural areas, also joins a diverse cultural mix that meets African descent, paisas, coastal and indigenous, on a plateau that is part of the Colombian Caribbean.</string>
+    <string name="abierto">Open navigation drawer</string>
+    <string name="cerrado">Close navigation drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="irMapa">Go to the map</string>
+    <string name="title_activity_oasis">Map</string>
+    <string name="title_activity_encuentros_maps">Map</string>
+    <string name="title_activity_zungo_maps">Map</string>
+    <string name="title_activity_pampa_maps">Map</string>
+    <string name="title_activity_barbacoa_maps">Map</string>
+    <string name="title_activity_kiwi_maps">Map</string>
+    <string name="title_activity_digmaran_maps">Map</string>
+    <string name="title_activity_estaciones_maps">Map</string>
+    <string name="title_activity_william_maps">Map</string>
+    <string name="title_activity_apartado_maps">Map</string>
+</resources>

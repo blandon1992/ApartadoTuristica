@@ -1,0 +1,33 @@
+<ScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="com.joseblandon.fragments.EncuentrosFragment">
+
+        <!-- TODO: Update blank fragment layout -->
+
+        <LinearLayout
+            style="@style/linearLayoutStyle">
+            <TextView
+                style="@style/textViewStyle.Title"
+                android:text="@string/encuentros"/>
+
+            <ImageView
+                style="@style/imageViewStyle"
+                android:src="@drawable/encuentros"/>
+
+            <TextView
+                style="@style/textViewStyle.Content"
+                android:text="@string/encuentrosInfo"/>
+            <Button
+                style="@style/ButtonStyle"
+                android:text="@string/irMapa"
+                android:onClick="mapsEncuentros"/>
+        </LinearLayout>
+</FrameLayout>
+</ScrollView>
